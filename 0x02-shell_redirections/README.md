@@ -1,1 +1,1 @@
-my first readme
+write a script that prints hello world
